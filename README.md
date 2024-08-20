@@ -8,7 +8,7 @@
 
 # step2:
 # Navigate to the file directory
-# cd GEN-AI-GEMINIMODEl
+# cd GEN-AI-GEMINIMODEL
 
 # step3
 # run this command 
